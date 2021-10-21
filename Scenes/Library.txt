@@ -1,0 +1,1 @@
+You are at the Golm's library. After standing in the long queue you find out that in order to get the book you need, you have to solve a riddle again. The rules are quite simple: you'll get the definition of an animal you have to guess. After you've used 3 tries, the right answer and the definition for another animal will be shown. Good luck!

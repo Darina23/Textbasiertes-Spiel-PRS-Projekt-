@@ -1,0 +1,1 @@
+Welcome! A two-way ticket costs 5 euros. To buy it, you need to guess the secret word in a sentence, based on its POS-tag. You'll have 3 tries and after that the sentence will be changed and you'll have another 3 tries. Don't forget, that you have just 2 minutes to get the train you saw, otherwise you'll be late, so HURRY UP, the train won't wait!!!
